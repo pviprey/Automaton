@@ -1,0 +1,6 @@
+.vscode
+build
+googletest
+automate.tar.gz
+prepare-archive.sh
+TP.pdf
